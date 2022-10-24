@@ -18,15 +18,7 @@ public class Model implements Contract.Module{
             mAuth=FirebaseAuth.getInstance();
             Log.d("login","Вот сука"+email);
                 mAuth.createUserWithEmailAndPassword(email,password);
-//                      .addOnCompleteListener(this, new OnCompleteListener<AuthResult>() {
-//                            @Override
-//                            public void onComplete(@NonNull Task<AuthResult> task) {
-//                                if(task.isSuccessful()){
-//                                    Intent intent=new Intent(,MainActivity2.class);
-//
-//                                }
-//                            }
-//                        });
+
 
             }
         public  void userData(String email, String name,String login){

@@ -8,7 +8,7 @@ public class Presenter implements Contract.Presenter {
 
     private Contract.ViewReg mView;
     private Contract.Module mModule;
-    //public String email,password;
+
 
 
     public Presenter(Contract.ViewReg mView){
