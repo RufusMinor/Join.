@@ -20,6 +20,6 @@ public class Presenter implements Contract.Presenter {
     public void clickRegistrationButton(String email, String password,String name,String login){
         mModule.createAccount( email,password);
         mModule.userData(email,name,login);
-        Log.d("login","Вот сука"+email);
+
     }
 }

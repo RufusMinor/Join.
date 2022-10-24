@@ -34,7 +34,7 @@ public class Model implements Contract.Module{
             mDatabase= FirebaseDatabase.getInstance("https://join-6dc33-default-rtdb.asia-southeast1.firebasedatabase.app").getReference();
             mDatabase.child(login).child("name").setValue(name);
             mDatabase.child(login).child("email").setValue(email);
-            Log.d("login","Вот сука"+email+name+login);
+
 
         }
 

@@ -11,7 +11,7 @@ public class Model implements Contract.ModuleSingIn {
     public void SingIn(String email, String password){
         mAuth=FirebaseAuth.getInstance();
         mAuth.signInWithEmailAndPassword(email, password){
-            
+
         }
 
 
