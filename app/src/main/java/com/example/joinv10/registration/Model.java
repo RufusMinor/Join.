@@ -16,7 +16,6 @@ public class Model implements Contract.Module{
 
         public void createAccount(String email, String password){
             mAuth=FirebaseAuth.getInstance();
-            Log.d("login","Вот сука"+email);
                 mAuth.createUserWithEmailAndPassword(email,password);
 
 

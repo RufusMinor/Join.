@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Лента"
+        android:icon="@drawable/ic_baseline_record_voice_over_24"
+        android:id="@+id/List"/>
+    <item android:title="Избранное"
+        android:icon="@drawable/ic_baseline_star_24"
+        android:id="@+id/Favorites"/>
+    <item android:title="Посиделки"
+        android:icon="@drawable/ic_baseline_group_24"
+        android:id="@+id/My_party"/>
+    <item android:title="Настройки"
+        android:icon="@drawable/ic_baseline_settings_24"
+        android:id="@+id/Setting"/>
+</menu>

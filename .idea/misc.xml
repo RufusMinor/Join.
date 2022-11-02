@@ -3,12 +3,23 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/drawable-v24/ic_baseline_group_24.xml" value="0.113" />
+        <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/drawable-v24/ic_baseline_record_voice_over_24.xml" value="0.113" />
+        <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/drawable-v24/ic_baseline_settings_24.xml" value="0.113" />
+        <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/drawable-v24/ic_baseline_star_24.xml" value="0.113" />
         <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/font/aldrich.xml" value="0.175" />
         <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/layout/activity_main.xml" value="0.22" />
         <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/layout/activity_main2.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/layout/activity_nav.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/layout/activity_regestration.xml" value="0.20416666666666666" />
         <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/layout/activity_singin.xml" value="0.16666666666666666" />
         <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/layout/activity_splash_screen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/layout/card.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/layout/fragment_favorites.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/layout/fragment_list.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/layout/fragment_my_party.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/layout/fragment_settings.xml" value="0.19010416666666666" />
+        <entry key="..\:/Users/evges/AndroidStudioProjects/Joinv10/app/src/main/res/menu/menu.xml" value="0.20416666666666666" />
       </map>
     </option>
   </component>
